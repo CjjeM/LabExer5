@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabExer5", "LabExer5\LabExer5.csproj", "{5DF1322A-4C4F-466B-A1BF-74B6940A38AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DF1322A-4C4F-466B-A1BF-74B6940A38AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DF1322A-4C4F-466B-A1BF-74B6940A38AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DF1322A-4C4F-466B-A1BF-74B6940A38AA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5DF1322A-4C4F-466B-A1BF-74B6940A38AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DF1322A-4C4F-466B-A1BF-74B6940A38AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DF1322A-4C4F-466B-A1BF-74B6940A38AA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09022173-8432-437A-BDA1-1A074E5A8369}
+	EndGlobalSection
+EndGlobal
